@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    overflow: auto
+}
+
+.Header {
+    background-color: #9A1444;
+    height: 80px;
+    margin-top: -20px;
+    display: flex;
+
+}
+
+
+.Header-Title {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+}
+
+.Header .Header-ul li {
+    list-style: none;
+    float: left;
+    padding: 0 20px;
+    margin-top: 20px;
+}
+
+.Header-ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    transition: 0.3s ease;
+    font-family: sans-serif;
+}
+
+.Header-ul li a:hover {
+    color: black;
+    transition: 1s;
+}

@@ -1,0 +1,28 @@
+.NF-outer {
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 700px;
+    height: 600px;
+    padding-left: 20px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    box-shadow: 0.5px 0.5px 0.5px 3px rgb(116, 0, 50);
+}
+
+.NF-label1 {
+    font-size: 24px;
+    color: rgb(116, 0, 50);
+    font-weight: 900;
+}
+
+.NF-name {
+    padding: 7px 25%;
+}
+
+.NF-type {
+    padding: 7px 25%;
+}
+
+.NF-Desc {
+    padding: 7px 25%;
+}

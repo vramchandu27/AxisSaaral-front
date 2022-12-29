@@ -1,0 +1,36 @@
+.News {
+    display: flex;
+    justify-content: space-between;
+}
+
+.News-section {
+    padding-left: 200px;
+    font-size: 25px;
+    margin-top: 30px;
+    color: #5b0020;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+Video {
+    width: 90%;
+    height: 100%;
+    margin-left: 80px;
+    margin-top: -2px;
+}
+
+.News-btn {
+    padding: 9px 35px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    border-style: none;
+    background-color: #5b0020;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+.News-btn:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+    transition: 1s;
+}

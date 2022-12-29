@@ -1,0 +1,38 @@
+.Documents-outer {
+    margin-left: 150px;
+    margin-top: 50px;
+    width: 700px;
+    height: 600px;
+    padding-left: 20px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    box-shadow: 0.5px 0.5px 0.5px 3px rgb(116, 0, 50);
+
+}
+
+.Documents-label1 {
+    font-size: 24px;
+    color: rgb(116, 0, 50);
+    font-weight: 900;
+}
+
+.Document-name {
+    padding: 7px 25%;
+}
+
+.Document-Description {
+    padding: 7px 25%;
+}
+
+select.mySelect {
+    width: 74%;
+    background: #650132;
+    color: rgb(255, 255, 255);
+    padding: 0 10px;
+    font-size: 22px;
+}
+
+select.mySelect option {
+    color: rgb(255, 255, 255);
+    padding: 0 10px;
+}

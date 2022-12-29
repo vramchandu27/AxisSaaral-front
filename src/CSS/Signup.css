@@ -1,0 +1,149 @@
+.Signup {
+    height: 110vh;
+    width: 100%;
+    background-color: #ffffff;
+    margin-left: 50px;
+}
+
+.Signup-Inner1 {
+    opacity: 0.7;
+    color: #9a1441;
+    margin-top: 100px;
+}
+
+.Signup-Inner2 {
+
+    padding-left: 10px;
+    margin-bottom: -20px;
+
+}
+
+.Signup-outer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    width: 90%;
+    height: 800px;
+    padding-top: 20px;
+    margin-top: 90px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 5px 5px 5px rgba(0, 0, 0, 0.2);
+
+
+}
+
+select {
+    width: 170%;
+    height: 40px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.Signup-email {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+}
+
+.Signup-password {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+}
+
+.Signup-dob {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+}
+
+.Signup-fullname {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+}
+
+.Signup-address {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 0px;
+}
+
+.Signup-mobile {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+}
+
+.Signup-dob {
+    width: 170%;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 0.4px;
+    border-style: solid;
+    border-color: black;
+}
+
+.Signup-label1 {
+    font-size: 20px;
+    color: #9a1441;
+    font-weight: 800;
+    opacity: 0.8;
+}
+
+.Signup-btn {
+    margin-top: 30px;
+    width: 170%;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    background-color: #9A1444;
+
+}
+
+.Signup-btn:hover {
+    background-color: #000000;
+    cursor: pointer;
+    transition: 1.6s;
+}
+
+.para_fn {
+    color: red;
+    font-weight: 200;
+    text-align: left;
+    font-size: 15px;
+    margin: 0px;
+}

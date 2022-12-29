@@ -1,0 +1,45 @@
+.Footer {
+    display: flex;
+    background-color: #a84868;
+    justify-content: space-around;
+}
+
+.Footer_title {
+    margin-left: 10px;
+    color: #faaec8;
+    font-weight: 900;
+}
+
+.Footer_phoneno {
+    color: #ffffff;
+    margin-left: 10px;
+    opacity: 0.9;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.Footer_head3 {
+    color: #ffffff;
+    margin-left: 10px;
+    opacity: 0.9;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.Footer_Offer {
+    color: #faaec8;
+    font-weight: 900;
+}
+
+.Footer_holder {
+    color: #faaec8;
+    font-weight: 900;
+}
+
+.Footer_lhead {
+    color: rgb(9, 6, 6);
+    margin-left: 10px;
+    opacity: 0.9;
+    font-family: cursive;
+    font-size: 15px;
+}
